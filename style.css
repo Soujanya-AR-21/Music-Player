@@ -40,3 +40,9 @@ body {
 audio {
   display: none; 
 }
+
+.progress-container {
+  width: 100%;
+  height: 6px;
+  background: #404040;
+  border-radius: 5px;
