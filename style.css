@@ -46,3 +46,8 @@ audio {
   height: 6px;
   background: #404040;
   border-radius: 5px;
+  cursor: pointer;
+  margin: 15px 0;
+  position: relative;
+  box-shadow: inset 0 0 6px rgba(0,0,0,0.5);
+}
