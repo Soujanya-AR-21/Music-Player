@@ -95,3 +95,9 @@ audio {
   color: #fff;
   box-shadow: 0 0 15px rgba(29,185,84,0.8);
 }
+
+#playPauseButton:hover {
+  transform: scale(1.1);
+  background: #1ed760; 
+  box-shadow: 0 0 20px rgba(29,185,84,1);
+}
