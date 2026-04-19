@@ -67,3 +67,9 @@ audio {
   gap: 20px;
   margin-top: 30px;
 }
+
+.controls button {
+  background: none;
+  border: none;
+  color: white;
+}
