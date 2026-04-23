@@ -19,3 +19,8 @@ const audioFiles = [
      src:'music/Olave Olave - Lyrical  SSE (Side B)  Rakshit Shetty, Rukmini  Charan RajHemanth MRao.mp3',
      img:'image/saptha.jpg'
     },
+    {name:'Ranjha  Official Video  Shershaah g',
+     src:'music/Ranjha  Official Video  Shershaah  SidharthKiara  B Praak  Jasleen Royal  Romy  Anvita Dutt.mp3',
+     img:'image/shershaah.jpg'
+    },
+];
