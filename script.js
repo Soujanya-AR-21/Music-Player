@@ -43,4 +43,12 @@ if (isPlaying) {
      audioPlayer.pause();
      isPlaying = false;
      playPauseButton.textContent = '\u25B6'; //play icon
+    }
+else{
+    audioPlayer.play();
+     isPlaying=true;
+     playPauseButton.textContent = '\u275A\u275A';
+
+    }
+}
 
