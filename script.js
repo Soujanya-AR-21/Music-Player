@@ -37,7 +37,7 @@ function loadTrack(index){
     }
 }
 
-
+//function to toggle play\pause
 function togglePlayPause() {
 if (isPlaying) {
      audioPlayer.pause();
