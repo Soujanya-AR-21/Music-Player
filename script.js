@@ -31,3 +31,8 @@ let isPlaying = false;
 function loadTrack(index){
     audioPlayer.src = audioFiles[index].src;
     trackNameElement.textContent = audioFiles[index].name;
+    imageElement.src = audioFiles[index].img;
+    if (isPlaying) {
+        audioPlayer.play();
+    }
+}
