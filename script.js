@@ -42,4 +42,5 @@ function togglePlayPause() {
 if (isPlaying) {
      audioPlayer.pause();
      isPlaying = false;
-     playPauseButton.textContent = '\u25B6';
+     playPauseButton.textContent = '\u25B6'; //play icon
+
