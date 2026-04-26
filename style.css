@@ -105,3 +105,9 @@ audio {
 .img{
   margin-top: 50px;
 }
+
+#trackName{
+  margin-top: 50px;
+  color: rgb(6, 143, 54);
+  font-size: larger;
+}
