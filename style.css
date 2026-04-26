@@ -115,3 +115,6 @@ audio {
 h2{
   color: rgba(29,185,84,1);
 }
+
+#volumeControl{
+  width: 200px;
