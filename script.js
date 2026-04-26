@@ -74,3 +74,8 @@ audioPlayer.addEventListener('ended',() => {
 loadTrack(currentTrack);
 
 audioPlayer.volume = volumeControl.value;
+
+volumeControl.addEventListener("input",() => {
+    audioPlayer.volume = volumeControl.value;
+    volumeControl.textContent = ` volume:${Math.round(volumeControl.value*100)}%`
+});
