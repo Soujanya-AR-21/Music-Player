@@ -72,3 +72,5 @@ audioPlayer.addEventListener('ended',() => {
 });
 
 loadTrack(currentTrack);
+
+audioPlayer.volume = volumeControl.value;
