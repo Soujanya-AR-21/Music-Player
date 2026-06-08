@@ -21,7 +21,7 @@ body {
   background: #181818;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8),
               0 5px 30px rgba(15, 171, 69, 0.3); 
-  text-align: center;
+  text-align: center; 
   color: #fff;
 }
 
