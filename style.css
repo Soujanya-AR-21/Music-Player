@@ -16,7 +16,7 @@ body {
 .music-player-body { 
   width: 400px; 
   height: 600px; 
-  padding: 25px; 
+  padding: 25px;
   border-radius: 20px;
   background: #181818;
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.8),
